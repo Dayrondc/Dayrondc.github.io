@@ -1,0 +1,6 @@
+.checklist{
+    list-style-image: url(checkbox-unchecked.svg)
+}
+.checked{
+    list-style-image: url(check-box-with-check.svg)
+}

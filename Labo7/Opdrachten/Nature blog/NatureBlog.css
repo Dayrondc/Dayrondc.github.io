@@ -1,0 +1,31 @@
+body{
+    font-family: Verdana;
+    margin-left: auto;
+    margin-right: auto  ;
+}
+section>header>h1{
+    background-image: url(../images/header.jpg);
+    color: white;
+    height: 100px;
+    margin-bottom: 0px;
+    font-size: 3em;
+}
+nav{
+    background-color: #444444;
+
+}
+nav>a{
+    margin-top: 0px;
+    color: beige;
+    text-decoration: none;
+}
+article{
+    padding-top: 30px;
+    margin-top: 10px;
+    background-color: #eeeeee;
+}
+article h1{
+    font-size: 2em;
+    text-decoration: underline;
+    margin-top: 5px;
+}

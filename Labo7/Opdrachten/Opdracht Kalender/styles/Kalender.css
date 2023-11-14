@@ -1,0 +1,21 @@
+table{
+    border: 3px solid;
+
+}
+th{
+    background-color: rgb(170,170,200);
+}
+.weekend{
+    background-color: rgb(255, 220, 220);
+}
+.vrijedagen{
+    background-color: rgb(250,120,120);
+}
+.dagen{
+    color: lightblue;
+    background-color: darkblue;
+}
+.anderemaand{
+    background-color: gray;
+    color: lightgray;
+}
